@@ -30,31 +30,31 @@ xxx
   
 ## Basic Project Timeline
 
-## <a name='weekthree'></a>Week 3:
+* ## <a name='weekthree'></a>Week 3:
 
 xxx
 
-## <a name='weekfour'></a>Week 4:
+* ## <a name='weekfour'></a>Week 4:
 
 xxx
 
-## <a name='weekfive'></a>Week 5:
+* ## <a name='weekfive'></a>Week 5:
 
 xxx
 
-## <a name='weeksix'></a>Week 6:
+* ## <a name='weeksix'></a>Week 6:
 
 xxx
 
-## <a name='weekseven'></a>Week 7:
+* ## <a name='weekseven'></a>Week 7:
 
 xxx
 
-## <a name='weekeight'></a>Week 8:
+* ## <a name='weekeight'></a>Week 8:
 
 xxx
 
-## <a name='weeknine'></a>Week 9:
+* ## <a name='weeknine'></a>Week 9:
 
 xxx
 
