@@ -34,6 +34,7 @@ We will analysis the data, and hope to find out what are the factors that will a
 * ## <a name='weekfour'></a>Week 4:
 
    * use R to analyze
+   * pre - clean data
 
 * ## <a name='weekfive'></a>Week 5:
 
