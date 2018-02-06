@@ -4,7 +4,7 @@
 
 ## Absract
 
-xxx
+### We will analysis the data, and hope to find out what are the factors that will effect the price of auto insurance.
 
 ## Table of Contents
 * [Week 3](#weekthree)
