@@ -17,8 +17,8 @@ We will analysis the data, and hope to find out what are the factors that will a
 
 ## Data Sources:
 
-Online R package "insuranceData"
-Author Alicja Wolny--Dominiak and Michal Trzesiok
+* Online R package "insuranceData"
+* Author Alicja Wolny--Dominiak and Michal Trzesiok
 
    
 ## Compenents Considered
@@ -32,7 +32,7 @@ xxx
 
 * ## <a name='weekthree'></a>Week 3:
 
-xxx
+   xxx
 
 * ## <a name='weekfour'></a>Week 4:
 
@@ -40,23 +40,23 @@ xxx
 
 * ## <a name='weekfive'></a>Week 5:
 
-xxx
+   xxx
 
 * ## <a name='weeksix'></a>Week 6:
 
-xxx
+   xxx
 
 * ## <a name='weekseven'></a>Week 7:
 
-xxx
+   xxx
 
 * ## <a name='weekeight'></a>Week 8:
 
-xxx
+   xxx
 
 * ## <a name='weeknine'></a>Week 9:
 
-xxx
+   xxx
 
 
 ## Desired Outcome
