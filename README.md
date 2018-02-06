@@ -20,11 +20,6 @@ We will analysis the data, and hope to find out what are the factors that will a
 * Online R package "insuranceData"
 * Author Alicja Wolny--Dominiak and Michal Trzesiok
 
-   
-## Compenents Considered
-
-xxx
-
 ## Language(s)
   R
   
@@ -32,33 +27,36 @@ xxx
 
 * ## <a name='weekthree'></a>Week 3:
 
-   xxx
+   * decide our project topic
+   * initial project design
+   * gather data
 
 * ## <a name='weekfour'></a>Week 4:
 
-   xxx
+   * use R to analyze
 
 * ## <a name='weekfive'></a>Week 5:
 
-   xxx
+   * use R to analyze
 
 * ## <a name='weeksix'></a>Week 6:
 
-   xxx
+   * use R to analyze
 
 * ## <a name='weekseven'></a>Week 7:
 
-   xxx
+   * use R to analyze
 
 * ## <a name='weekeight'></a>Week 8:
 
-   xxx
+   * use R to analyze
 
 * ## <a name='weeknine'></a>Week 9:
 
-   xxx
+   * finish and clean project
 
 
 ## Desired Outcome
 
-xxx
+* figure out what factors could affect the auto insurance most
+* find out some ways to increase our insurance expense
