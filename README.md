@@ -4,7 +4,7 @@
 
 ## Absract
 
-### We will analysis the data, and hope to find out what are the factors that will effect the price of auto insurance.
+### We will analysis the data, and hope to find out what are the factors that will affect the price of auto insurance.
 
 ## Table of Contents
 * [Week 3](#weekthree)
@@ -17,7 +17,9 @@
 
 ## Data Sources:
 
-xxx
+Online R package "insuranceData"
+Author Alicja Wolny--Dominiak and Michal Trzesiok
+
    
 ## Compenents Considered
 
